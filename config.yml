@@ -1,0 +1,2 @@
+fetch.cmd: git clone git@github.com:ancapdev/<name>.git -b <version> --single-branch <destination>
+versions.cmd: git ls-remote git@github.com:ancapdev/<name>.git
